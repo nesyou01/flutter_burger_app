@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'config/theme.dart';
 import 'package:flutter/material.dart';
 
-import 'ui/screens/home/home_screen.dart';
+import 'ui/screens/home_screen.dart';
 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(
